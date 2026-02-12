@@ -24,4 +24,4 @@ jobs:
       run: python app.py
 
     - name: Build Docker image
-      run: docker build -t devops-app .
+      run: docker build -t devops-app
